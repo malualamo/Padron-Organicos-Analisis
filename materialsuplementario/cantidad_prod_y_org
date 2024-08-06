@@ -1,0 +1,120 @@
+,departamento,nombre_provincia,cantidad_establecimientos,cantidad_operadores
+0,Tehuelches,Chubut,107,2
+1,Concordia,Entre Ríos,2429,1304
+2,Uruguay,Entre Ríos,1618,2
+3,Pilcomayo,Formosa,457,1
+4,San Rafael,Mendoza,2931,2602
+5,San Justo,Santa Fe,5852,1
+6,San Javier,Misiones,1123,1306
+7,San Javier,Córdoba,1123,1306
+8,Azul,Buenos Aires,1607,1298
+9,General Alvarado,Buenos Aires,901,1
+10,Coronel Dorrego,Buenos Aires,405,326
+11,Carmen de Areco,Buenos Aires,373,971
+12,Pichi Mahuida,Río Negro,299,1
+13,Montecarlo,Misiones,405,646
+14,Gualeguay,Entre Ríos,889,3
+15,La Paz,Mendoza,952,333
+16,Villaguay,Entre Ríos,704,2
+17,San Carlos,Mendoza,531,332
+18,Paso de Indios,Chubut,29,1
+19,25 de Mayo,San Juan,1432,7
+20,La Cocha,Tucumán,98,324
+21,General Roca,Río Negro,7590,3327
+22,General Roca,Córdoba,7590,3327
+23,Malvinas Argentinas,Buenos Aires,2510,646
+24,Chicoana,Salta,318,1
+25,Confluencia,Neuquén,8312,355
+26,La Paz,Santiago del Estero,952,333
+27,La Paz,Catamarca,952,333
+28,San Pedro,Misiones,1596,331
+29,General Alvear,Mendoza,901,646
+30,San Carlos,Salta,531,332
+31,General Alvear,Corrientes,901,646
+32,Magallanes,Santa Cruz,202,1
+33,Caseros,Santa Fe,2079,2
+34,Rosario,Santa Fe,25338,646
+35,Quebrachos,Santiago del Estero,51,1
+36,Saavedra,Buenos Aires,557,1
+37,San Antonio de Areco,Buenos Aires,546,323
+38,Cachi,Salta,41,1
+39,La Plata,Buenos Aires,7323,649
+40,San Isidro,Buenos Aires,8221,323
+41,Guachipas,Salta,43,1
+42,Calingasta,San Juan,133,2
+43,Escalante,Chubut,4005,5
+44,Gastre,Chubut,12,2
+45,Las Heras,Mendoza,1269,2
+46,25 de Mayo,Río Negro,1432,7
+47,San Lorenzo,Chaco,3302,3
+48,25 de Mayo,Misiones,1432,7
+49,9 de Julio,Chaco,1932,6
+50,9 de Julio,Buenos Aires,1932,6
+51,San Javier,Santa Fe,1123,1306
+52,San Justo,Córdoba,5852,1
+53,Pilar,Buenos Aires,4585,1
+54,General Las Heras,Buenos Aires,223,324
+55,Adolfo Alsina,Río Negro,1539,2
+56,Rauch,Buenos Aires,394,3
+57,Pilcaniyeu,Río Negro,86,2
+58,San Ignacio,Misiones,479,650
+59,Victoria,Entre Ríos,625,647
+60,La Paz,Entre Ríos,952,333
+61,San Pedro,Jujuy,1596,331
+62,Chilecito,La Rioja,514,2285
+63,9 de Julio,Río Negro,1932,6
+64,25 de Mayo,Chaco,1432,7
+65,25 de Mayo,Buenos Aires,1432,7
+66,Graneros,Tucumán,42,1
+67,Baradero,Buenos Aires,690,653
+68,Alberti,Buenos Aires,238,2584
+69,Lobos,Buenos Aires,785,323
+70,Lincoln,Buenos Aires,1096,323
+71,Adolfo Alsina,Buenos Aires,1539,2
+72,San Salvador,Entre Ríos,391,969
+73,Federal,Entre Ríos,361,1
+74,San Pedro,Buenos Aires,1596,331
+75,Santa Rosa,Mendoza,375,333
+76,Chicligasta,Tucumán,711,1
+77,Monteros,Tucumán,440,974
+78,Cruz del Eje,Córdoba,409,1
+79,Bella Vista,Corrientes,338,325
+80,General Paz,Buenos Aires,312,1
+81,Pergamino,Buenos Aires,2310,323
+82,Tandil,Buenos Aires,3862,325
+83,Campana,Buenos Aires,1593,323
+84,Las Flores,Buenos Aires,458,7
+85,Cerrillos,Salta,328,323
+86,Chimbas,San Juan,448,323
+87,Caucete,San Juan,387,1298
+88,Cushamen,Chubut,225,326
+89,Gaiman,Chubut,209,648
+90,El Carmen,Jujuy,1262,4
+91,Tupungato,Mendoza,584,1945
+92,Santa Rosa,Catamarca,375,333
+93,9 de Julio,San Juan,1932,6
+94,Juan Bautista Alberdi,Tucumán,264,325
+95,Monte Caseros,Corrientes,520,1
+96,General Paz,Corrientes,312,1
+97,Villarino,Buenos Aires,602,325
+98,Coronel Pringles,San Luis,782,2
+99,Coronel Pringles,Buenos Aires,782,2
+100,Pocito,San Juan,484,646
+101,El Cuy,Río Negro,38,326
+102,Caleu Caleu,La Pampa,22,1
+103,Arauco,La Rioja,165,5
+104,9 de Julio,Santa Fe,1932,6
+105,San Lorenzo,Santa Fe,3302,3
+106,Yerba Buena,Tucumán,1358,324
+107,Chivilcoy,Buenos Aires,1385,325
+108,Tres Arroyos,Buenos Aires,1567,648
+109,Anta,Salta,519,324
+110,Angaco,San Juan,50,1
+111,Lules,Tucumán,325,324
+112,Adolfo Gonzales Chaves,Buenos Aires,313,1
+113,General Alvear,Buenos Aires,901,646
+114,Tinogasta,Catamarca,133,326
+115,Cafayate,Salta,226,649
+116,Rosario de la Frontera,Salta,290,3
+117,Valle Viejo,Catamarca,106,324
+118,Godoy Cruz,Mendoza,2163,325

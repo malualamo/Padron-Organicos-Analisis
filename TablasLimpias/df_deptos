@@ -1,0 +1,532 @@
+,nombre_departamento,nombre_provincia
+0,Tres Arroyos,Buenos Aires
+1,Juárez Celman,Córdoba
+2,Concepción Corrientes,Corrientes
+3,Zapala,Neuquén
+4,Rojas,Buenos Aires
+5,Belgrano Santa Fe,Santa Fe
+6,Adolfo Alsina,Buenos Aires
+7,Adolfo Gonzales Chaves,Buenos Aires
+8,Alberti,Buenos Aires
+9,Almirante Brown,Buenos Aires
+10,Avellaneda Buenos Aires,Buenos Aires
+11,Ayacucho Buenos Aires,Buenos Aires
+12,Azul,Buenos Aires
+13,Bahía Blanca,Buenos Aires
+14,Balcarce,Buenos Aires
+15,Baradero,Buenos Aires
+16,Arrecifes,Buenos Aires
+17,Benito Juárez,Buenos Aires
+18,Berazategui,Buenos Aires
+19,Berisso,Buenos Aires
+20,Bolívar,Buenos Aires
+21,Bragado,Buenos Aires
+22,Brandsen,Buenos Aires
+23,Campana,Buenos Aires
+24,Cañuelas,Buenos Aires
+25,Capitán Sarmiento,Buenos Aires
+26,Carlos Casares,Buenos Aires
+27,Colón Buenos Aires,Buenos Aires
+28,Carlos Tejedor,Buenos Aires
+29,Carmen de Areco,Buenos Aires
+30,Castelli,Buenos Aires
+31,Coronel de Marina Leonardo Rosales,Buenos Aires
+32,Coronel Dorrego,Buenos Aires
+33,Coronel Pringles,Buenos Aires
+34,Coronel Suárez,Buenos Aires
+35,Chacabuco Buenos Aires,Buenos Aires
+36,Chascomús,Buenos Aires
+37,Lezama,Buenos Aires
+38,Chivilcoy,Buenos Aires
+39,Daireaux,Buenos Aires
+40,Dolores,Buenos Aires
+41,Ensenada,Buenos Aires
+42,Escobar,Buenos Aires
+43,Esteban Echeverría,Buenos Aires
+44,Exaltación de la Cruz,Buenos Aires
+45,Ezeiza,Buenos Aires
+46,Florencio Varela,Buenos Aires
+47,Florentino Ameghino,Buenos Aires
+48,General Alvarado,Buenos Aires
+49,General Alvear,Buenos Aires
+50,Guaminí,Buenos Aires
+51,General Arenales,Buenos Aires
+52,General Belgrano,Buenos Aires
+53,General Guido,Buenos Aires
+54,General Juan Madariaga,Buenos Aires
+55,General La Madrid,Buenos Aires
+56,General Las Heras,Buenos Aires
+57,General Lavalle,Buenos Aires
+58,General Paz,Buenos Aires
+59,General Pinto,Buenos Aires
+60,General Pueyrredón,Buenos Aires
+61,General Rodríguez,Buenos Aires
+62,General San Martín,Buenos Aires
+63,General Viamonte,Buenos Aires
+64,General Villegas,Buenos Aires
+65,Hipólito Yrigoyen,Buenos Aires
+66,Hurlingham,Buenos Aires
+67,Ituzaingó Buenos Aires,Buenos Aires
+68,José C. Paz,Buenos Aires
+69,Junín Buenos Aires,Buenos Aires
+70,La Costa,Buenos Aires
+71,La Matanza,Buenos Aires
+72,Lanús,Buenos Aires
+73,La Plata,Buenos Aires
+74,Laprida,Buenos Aires
+75,Las Flores,Buenos Aires
+76,Leandro N. Alem,Buenos Aires
+77,Lincoln,Buenos Aires
+78,Lobería,Buenos Aires
+79,Lobos,Buenos Aires
+80,Lomas de Zamora,Buenos Aires
+81,Luján,Buenos Aires
+82,Magdalena,Buenos Aires
+83,Maipú Buenos Aires,Buenos Aires
+84,Malvinas Argentinas,Buenos Aires
+85,Mar Chiquita,Buenos Aires
+86,Marcos Paz,Buenos Aires
+87,Mercedes Buenos Aires,Buenos Aires
+88,Merlo,Buenos Aires
+89,Monte,Buenos Aires
+90,Monte Hermoso,Buenos Aires
+91,Moreno Buenos Aires,Buenos Aires
+92,Morón,Buenos Aires
+93,Navarro,Buenos Aires
+94,Necochea,Buenos Aires
+95,9 de Julio,Buenos Aires
+96,Olavarría,Buenos Aires
+97,Patagones,Buenos Aires
+98,Pehuajó,Buenos Aires
+99,Pellegrini Buenos Aires,Buenos Aires
+100,Pergamino,Buenos Aires
+101,Pila,Buenos Aires
+102,Pilar,Buenos Aires
+103,Pinamar,Buenos Aires
+104,Presidente Perón,Buenos Aires
+105,Puán,Buenos Aires
+106,Punta Indio,Buenos Aires
+107,Quilmes,Buenos Aires
+108,Ramallo,Buenos Aires
+109,Rauch,Buenos Aires
+110,Rivadavia Buenos Aires,Buenos Aires
+111,Roque Pérez,Buenos Aires
+112,San Pedro,Buenos Aires
+113,Saavedra,Buenos Aires
+114,Saladillo,Buenos Aires
+115,Salto,Buenos Aires
+116,Salliqueló,Buenos Aires
+117,San Andrés de Giles,Buenos Aires
+118,San Antonio de Areco,Buenos Aires
+119,San Cayetano,Buenos Aires
+120,San Fernando,Buenos Aires
+121,San Isidro,Buenos Aires
+122,San Miguel,Buenos Aires
+123,San Nicolás,Buenos Aires
+124,San Vicente,Buenos Aires
+125,Suipacha,Buenos Aires
+126,Tandil,Buenos Aires
+127,Tapalqué,Buenos Aires
+128,Tigre,Buenos Aires
+129,Tordillo,Buenos Aires
+130,Tornquist,Buenos Aires
+131,Trenque Lauquen,Buenos Aires
+132,Tres de Febrero,Buenos Aires
+133,Tres Lomas,Buenos Aires
+134,25 de Mayo,Buenos Aires
+135,Vicente López,Buenos Aires
+136,Villa Gesell,Buenos Aires
+137,Villarino,Buenos Aires
+138,Zárate,Buenos Aires
+139,Ambato,Catamarca
+140,Ancasti,Catamarca
+141,Andalgalá,Catamarca
+142,Antofagasta de la Sierra,Catamarca
+143,Belén,Catamarca
+144,Capayán,Catamarca
+145,Capital Catamarca,Catamarca
+146,El Alto,Catamarca
+147,Fray Mamerto Esquiú,Catamarca
+148,La Paz,Catamarca
+149,La Paz,Santiago del Estero
+150,Paclín,Catamarca
+151,Pomán,Catamarca
+152,Santa María,Catamarca
+153,Santa Rosa,Catamarca
+154,Tinogasta,Catamarca
+155,Valle Viejo,Catamarca
+156,Calamuchita,Córdoba
+157,Capital Córdoba,Córdoba
+158,Colón Córdoba,Córdoba
+159,Cruz del Eje,Córdoba
+160,General Roca,Córdoba
+161,General San Martín,Córdoba
+162,Ischilín,Córdoba
+163,Marcos Juárez,Córdoba
+164,Minas Córdoba,Córdoba
+165,Pocho,Córdoba
+166,Presidente Roque Sáenz Peña,Córdoba
+167,Punilla,Córdoba
+168,Río Cuarto,Córdoba
+169,Río Primero,Córdoba
+170,Río Seco,Córdoba
+171,San Javier,Córdoba
+172,Río Segundo,Córdoba
+173,San Alberto,Córdoba
+174,San Justo,Córdoba
+175,Santa María,Córdoba
+176,Sobremonte,Córdoba
+177,Tercero Arriba,Córdoba
+178,Totoral,Córdoba
+179,Tulumba,Córdoba
+180,Unión,Córdoba
+181,Bella Vista,Corrientes
+182,Berón de Astrada,Corrientes
+183,Capital Corrientes,Corrientes
+184,Curuzú Cuatiá,Corrientes
+185,Empedrado,Corrientes
+186,Esquina,Corrientes
+187,General Alvear,Corrientes
+188,General Paz,Corrientes
+189,Goya,Corrientes
+190,Itatí,Corrientes
+191,Ituzaingó Corrientes,Corrientes
+192,Lavalle Corrientes,Corrientes
+193,Mburucuyá,Corrientes
+194,Mercedes Corrientes,Corrientes
+195,Monte Caseros,Corrientes
+196,Paso de los Libres,Corrientes
+197,Saladas,Corrientes
+198,San Cosme,Corrientes
+199,San Luis del Palmar,Corrientes
+200,San Martín,Corrientes
+201,San Miguel,Corrientes
+202,San Roque,Corrientes
+203,Santo Tomé,Corrientes
+204,Sauce,Corrientes
+205,Almirante Brown,Chaco
+206,Bermejo Chaco,Chaco
+207,Comandante Fernández,Chaco
+208,Chacabuco Chaco,Chaco
+209,12 de Octubre,Chaco
+210,2 de Abril,Chaco
+211,Fray Justo Santa María de Oro,Chaco
+212,General Belgrano,Chaco
+213,General Donovan,Chaco
+214,General Güemes,Chaco
+215,Independencia Chaco,Chaco
+216,Libertad,Chaco
+217,Libertador General San Martín,Chaco
+218,Maipú Chaco,Chaco
+219,Mayor Luis J. Fontana,Chaco
+220,9 de Julio,Chaco
+221,O'Higgins,Chaco
+222,Presidencia de la Plaza,Chaco
+223,1º de Mayo,Chaco
+224,Quitilipi,Chaco
+225,San Fernando,Chaco
+226,San Lorenzo,Chaco
+227,Sargento Cabral,Chaco
+228,Tapenagá,Chaco
+229,25 de Mayo,Chaco
+230,Biedma Río Negro,Río Negro
+231,Biedma Chubut,Chubut
+232,Cushamen,Chubut
+233,Escalante,Chubut
+234,Florentino Ameghino,Chubut
+235,Futaleufú,Chubut
+236,Gaiman,Chubut
+237,Gastre,Chubut
+238,Languiñeo,Chubut
+239,Mártires,Chubut
+240,Paso de Indios,Chubut
+241,Rawson Chubut,Chubut
+242,Río Senguer,Chubut
+243,Sarmiento Chubut,Chubut
+244,Tehuelches,Chubut
+245,Telsen,Chubut
+246,Colón Entre Ríos,Entre Ríos
+247,Concordia,Entre Ríos
+248,Diamante,Entre Ríos
+249,Federación,Entre Ríos
+250,Federal,Entre Ríos
+251,Feliciano,Entre Ríos
+252,Islas del Ibicuy,Entre Ríos
+253,Gualeguay,Entre Ríos
+254,Gualeguaychú,Entre Ríos
+255,La Paz,Entre Ríos
+256,Nogoyá,Entre Ríos
+257,Paraná,Entre Ríos
+258,San Salvador,Entre Ríos
+259,Tala,Entre Ríos
+260,Uruguay,Entre Ríos
+261,Victoria,Entre Ríos
+262,Villaguay,Entre Ríos
+263,Bermejo Formosa,Formosa
+264,Formosa,Formosa
+265,Laishi,Formosa
+266,Matacos,Formosa
+267,Patiño,Formosa
+268,Pirané,Formosa
+269,Pilagás,Formosa
+270,Pilcomayo,Formosa
+271,Ramón Lista,Formosa
+272,Cochinoca,Jujuy
+273,El Carmen,Jujuy
+274,Dr. Manuel Belgrano,Jujuy
+275,Humahuaca,Jujuy
+276,Ledesma,Jujuy
+277,Palpalá,Jujuy
+278,Rinconada,Jujuy
+279,San Antonio,Jujuy
+280,San Pedro,Jujuy
+281,Santa Bárbara,Jujuy
+282,Santa Catalina,Jujuy
+283,Susques,Jujuy
+284,Tilcara,Jujuy
+285,Tumbaya,Jujuy
+286,Valle Grande,Jujuy
+287,Yavi,Jujuy
+288,Atreucó,La Pampa
+289,Caleu Caleu,La Pampa
+290,Capital La Pampa,La Pampa
+291,Catriló,La Pampa
+292,Conhelo,La Pampa
+293,Curacó,La Pampa
+294,Chalileo,La Pampa
+295,Chapaleufú,La Pampa
+296,Chical Co,La Pampa
+297,Guatraché,La Pampa
+298,Hucal,La Pampa
+299,Lihuel Calel,La Pampa
+300,Limay Mahuida,La Pampa
+301,Loventué,La Pampa
+302,Maracó,La Pampa
+303,Puelén,La Pampa
+304,Quemú Quemú,La Pampa
+305,Rancul,La Pampa
+306,Realicó,La Pampa
+307,Toay,La Pampa
+308,Trenel,La Pampa
+309,Utracán,La Pampa
+310,Arauco,La Rioja
+311,Capital La Rioja,La Rioja
+312,Castro Barros,La Rioja
+313,Coronel Felipe Varela,La Rioja
+314,Chamical,La Rioja
+315,Chilecito,La Rioja
+316,Famatina,La Rioja
+317,General Angel V. Peñaloza,La Rioja
+318,General Belgrano,La Rioja
+319,General Juan Facundo Quiroga,La Rioja
+320,General Ocampo,La Rioja
+321,General Lamadrid,La Rioja
+322,General San Martín,La Rioja
+323,Vinchina,La Rioja
+324,Independencia La Rioja,La Rioja
+325,Rosario Vera Peñaloza,La Rioja
+326,Lavalle Mendoza,Mendoza
+327,San Blas de los Sauces,La Rioja
+328,Sanagasta,La Rioja
+329,Capital Mendoza,Mendoza
+330,General Alvear,Mendoza
+331,Godoy Cruz,Mendoza
+332,Guaymallén,Mendoza
+333,Junín Mendoza,Mendoza
+334,La Paz,Mendoza
+335,Las Heras,Mendoza
+336,Luján de Cuyo,Mendoza
+337,Maipú Mendoza,Mendoza
+338,Malargüe,Mendoza
+339,Rivadavia Mendoza,Mendoza
+340,San Martín,Mendoza
+341,San Carlos,Mendoza
+342,San Rafael,Mendoza
+343,Santa Rosa,Mendoza
+344,Tunuyán,Mendoza
+345,Tupungato,Mendoza
+346,Apóstoles,Misiones
+347,Cainguás,Misiones
+348,Candelaria,Misiones
+349,Capital Misiones,Misiones
+350,Concepción Misiones,Misiones
+351,Eldorado,Misiones
+352,General Manuel Belgrano,Misiones
+353,Guaraní,Misiones
+354,Iguazú,Misiones
+355,Leandro N. Alem,Misiones
+356,Libertador General San Martín,Misiones
+357,Montecarlo,Misiones
+358,Oberá,Misiones
+359,San Ignacio,Misiones
+360,San Javier,Misiones
+361,San Pedro,Misiones
+362,25 de Mayo,Misiones
+363,Aluminé,Neuquén
+364,Añelo,Neuquén
+365,Catan Lil,Neuquén
+366,Collón Curá,Neuquén
+367,Confluencia,Neuquén
+368,Chos Malal,Neuquén
+369,Huiliches,Neuquén
+370,Lácar,Neuquén
+371,Loncopué,Neuquén
+372,Los Lagos,Neuquén
+373,Minas Neuquén,Neuquén
+374,Ñorquín,Neuquén
+375,Pehuenches,Neuquén
+376,Picún Leufú,Neuquén
+377,Picunches,Neuquén
+378,Adolfo Alsina,Río Negro
+379,Avellaneda Río Negro,Río Negro
+380,Bariloche,Río Negro
+381,Conesa,Río Negro
+382,El Cuy,Río Negro
+383,General Roca,Río Negro
+384,9 de Julio,Río Negro
+385,Ñorquinco,Río Negro
+386,Pichi Mahuida,Río Negro
+387,Pilcaniyeu,Río Negro
+388,San Antonio,Río Negro
+389,Valcheta,Río Negro
+390,25 de Mayo,Río Negro
+391,Anta,Salta
+392,Cachi,Salta
+393,Cafayate,Salta
+394,Capital Salta,Salta
+395,Cerrillos,Salta
+396,Chicoana,Salta
+397,General Güemes,Salta
+398,General José de San Martín,Salta
+399,Guachipas,Salta
+400,Iruya,Salta
+401,La Caldera,Salta
+402,La Candelaria,Salta
+403,La Poma,Salta
+404,La Viña,Salta
+405,Los Andes,Salta
+406,Metán,Salta
+407,Molinos,Salta
+408,Orán,Salta
+409,Rivadavia Salta,Salta
+410,Rosario de la Frontera,Salta
+411,Rosario de Lerma,Salta
+412,San Carlos,Salta
+413,Santa Victoria,Salta
+414,Albardón,San Juan
+415,Angaco,San Juan
+416,Calingasta,San Juan
+417,Capital San Juan,San Juan
+418,Caucete,San Juan
+419,Chimbas,San Juan
+420,Iglesia,San Juan
+421,Jáchal,San Juan
+422,9 de Julio,San Juan
+423,Pocito,San Juan
+424,Rawson San Juan,San Juan
+425,Rivadavia San Juan,San Juan
+426,San Martín,San Juan
+427,Santa Lucía,San Juan
+428,Sarmiento San Juan,San Juan
+429,Ullúm,San Juan
+430,Valle Fértil,San Juan
+431,25 de Mayo,San Juan
+432,Zonda,San Juan
+433,Ayacucho San Luis,San Luis
+434,Belgrano San Luis,San Luis
+435,Coronel Pringles,San Luis
+436,Chacabuco San Luis,San Luis
+437,General Pedernera,San Luis
+438,Gobernador Dupuy,San Luis
+439,Junín San Luis,San Luis
+440,Juan Martín Pueyrredón,San Luis
+441,La Capital,San Luis
+442,Libertador General San Martín,San Luis
+443,Corpen Aike,Santa Cruz
+444,Deseado,Santa Cruz
+445,Güer Aike,Santa Cruz
+446,Lago Argentino,Santa Cruz
+447,Lago Buenos Aires,Santa Cruz
+448,Magallanes,Santa Cruz
+449,Río Chico,Santa Cruz
+450,Caseros,Santa Fe
+451,Constitución,Santa Fe
+452,Castellanos,Santa Fe
+453,Garay,Santa Fe
+454,General López,Santa Fe
+455,Iriondo,Santa Fe
+456,General Obligado,Santa Fe
+457,Las Colonias,Santa Fe
+458,La Capital,Santa Fe
+459,9 de Julio,Santa Fe
+460,Rosario,Santa Fe
+461,San Cristóbal,Santa Fe
+462,San Javier,Santa Fe
+463,San Jerónimo,Santa Fe
+464,San Justo,Santa Fe
+465,San Lorenzo,Santa Fe
+466,San Martín,Santa Fe
+467,Vera,Santa Fe
+468,Aguirre,Santiago del Estero
+469,Alberdi,Santiago del Estero
+470,Atamisqui,Santiago del Estero
+471,Avellaneda Santiago del Estero,Santiago del Estero
+472,Banda,Santiago del Estero
+473,Belgrano Santiago del Estero,Santiago del Estero
+474,Capital Santiago del Estero,Santiago del Estero
+475,Copo,Santiago del Estero
+476,Choya,Santiago del Estero
+477,Figueroa,Santiago del Estero
+478,General Taboada,Santiago del Estero
+479,Guasayán Santiago del Estero,Santiago del Estero
+480,Guasayán Catamarca,Catamarca
+481,Jiménez,Santiago del Estero
+482,Juan Felipe Ibarra,Santiago del Estero
+483,Loreto,Santiago del Estero
+484,Mitre,Santiago del Estero
+485,Moreno Santiago del Estero,Santiago del Estero
+486,Robles,Santiago del Estero
+487,Ojo de Agua,Santiago del Estero
+488,Cruz Alta,Tucumán
+489,Pellegrini Santiago del Estero,Santiago del Estero
+490,Quebrachos,Santiago del Estero
+491,Río Hondo,Santiago del Estero
+492,Rivadavia Santiago del Estero,Santiago del Estero
+493,Salavina,Santiago del Estero
+494,San Martín,Santiago del Estero
+495,Sarmiento Santiago del Estero,Santiago del Estero
+496,Silípica,Santiago del Estero
+497,Burruyacú,Tucumán
+498,Chicligasta,Tucumán
+499,Famaillá,Tucumán
+500,Graneros,Tucumán
+501,Juan Bautista Alberdi,Tucumán
+502,La Cocha,Tucumán
+503,Leales,Tucumán
+504,Lules,Tucumán
+505,Monteros,Tucumán
+506,Río Chico,Tucumán
+507,Capital Tucumán,Tucumán
+508,Simoca,Tucumán
+509,Tafí del Valle,Tucumán
+510,Tafí Viejo,Tucumán
+511,Trancas,Tucumán
+512,Yerba Buena,Tucumán
+513,Río Grande,Tierra del Fuego
+514,Ushuaia,Tierra del Fuego
+515,Islas del Atlántico Sur,Tierra del Fuego
+516,Comuna 1,Ciudad de Buenos Aires
+517,Comuna 10,Ciudad de Buenos Aires
+518,Comuna 11,Ciudad de Buenos Aires
+519,Comuna 12,Ciudad de Buenos Aires
+520,Comuna 13,Ciudad de Buenos Aires
+521,Comuna 14,Ciudad de Buenos Aires
+522,Comuna 15,Ciudad de Buenos Aires
+523,Comuna 2,Ciudad de Buenos Aires
+524,Comuna 3,Ciudad de Buenos Aires
+525,Comuna 4,Ciudad de Buenos Aires
+526,Comuna 5,Ciudad de Buenos Aires
+527,Comuna 6,Ciudad de Buenos Aires
+528,Comuna 7,Ciudad de Buenos Aires
+529,Comuna 8,Ciudad de Buenos Aires
+530,Comuna 9,Ciudad de Buenos Aires

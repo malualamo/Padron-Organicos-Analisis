@@ -1,0 +1,411 @@
+,nombre_departamento
+0,Arrecifes
+1,Coronel Suárez
+2,General San Martín
+3,Quilmes
+4,Ambato
+5,Belén
+6,Capital Córdoba
+7,General San Martín
+8,Río Segundo
+9,Saladas
+10,Chacabuco Chaco
+11,Libertador General San Martín
+12,Humahuaca
+13,Palpalá
+14,Chamical
+15,General San Martín
+16,San Blas de los Sauces
+17,Libertador General San Martín
+18,Libertador General San Martín
+19,Comuna 10
+20,Comuna 7
+21,Benito Juárez
+22,Colón Buenos Aires
+23,Exaltación de la Cruz
+24,Ezeiza
+25,Mar Chiquita
+26,Monte
+27,Necochea
+28,Pehuajó
+29,Pinamar
+30,Rivadavia Buenos Aires
+31,San Nicolás
+32,San Vicente
+33,Tres Lomas
+34,Zárate
+35,Calamuchita
+36,Presidencia de la Plaza
+37,Río Senguer
+38,Paraná
+39,Toay
+40,Capital La Rioja
+41,General Angel V. Peñaloza
+42,Guaraní
+43,Aluminé
+44,La Candelaria
+45,Molinos
+46,Castellanos
+47,Las Colonias
+48,General Taboada
+49,Robles
+50,Pellegrini Santiago del Estero
+51,Comuna 1
+52,General Lavalle
+53,La Costa
+54,Magdalena
+55,Monte Hermoso
+56,Navarro
+57,Punilla
+58,Mercedes Corrientes
+59,Pilagás
+60,Valle Grande
+61,Hucal
+62,Maipú Mendoza
+63,Apóstoles
+64,Iruya
+65,La Poma
+66,Valle Fértil
+67,Deseado
+68,Figueroa
+69,Guasayán Santiago del Estero
+70,Juan Felipe Ibarra
+71,Brandsen
+72,Esteban Echeverría
+73,General Belgrano
+74,Tigre
+75,Comandante Fernández
+76,Fray Justo Santa María de Oro
+77,General Belgrano
+78,San Antonio
+79,General Belgrano
+80,Independencia La Rioja
+81,Lavalle Mendoza
+82,Eldorado
+83,Chos Malal
+84,San Antonio
+85,General José de San Martín
+86,La Viña
+87,General López
+88,Iriondo
+89,San Cristóbal
+90,Alberdi
+91,Simoca
+92,Tafí del Valle
+93,Comuna 2
+94,Berazategui
+95,General Arenales
+96,Leandro N. Alem
+97,Maipú Buenos Aires
+98,Moreno Buenos Aires
+99,Suipacha
+100,San Alberto
+101,Sobremonte
+102,Paso de los Libres
+103,General Güemes
+104,Maipú Chaco
+105,Biedma Río Negro
+106,Biedma Chubut
+107,Futaleufú
+108,Islas del Ibicuy
+109,Dr. Manuel Belgrano
+110,Rinconada
+111,Castro Barros
+112,Guaymallén
+113,Leandro N. Alem
+114,Lácar
+115,Conesa
+116,General Güemes
+117,Santa Victoria
+118,Moreno Santiago del Estero
+119,Cruz Alta
+120,Capital Tucumán
+121,Juárez Celman
+122,Cañuelas
+123,Ensenada
+124,General Pinto
+125,Junín Buenos Aires
+126,Luján
+127,Presidente Perón
+128,Tres de Febrero
+129,Paclín
+130,Ischilín
+131,Mburucuyá
+132,Feliciano
+133,Rosario Vera Peñaloza
+134,Malargüe
+135,Tunuyán
+136,Oberá
+137,Rivadavia Salta
+138,Albardón
+139,Gobernador Dupuy
+140,Juan Martín Pueyrredón
+141,General Obligado
+142,Tafí Viejo
+143,Comuna 12
+144,Concepción Corrientes
+145,Zapala
+146,General Villegas
+147,Ituzaingó Buenos Aires
+148,Mercedes Buenos Aires
+149,Punta Indio
+150,Ituzaingó Corrientes
+151,San Cosme
+152,Rawson Chubut
+153,Colón Entre Ríos
+154,Atreucó
+155,Catriló
+156,Maracó
+157,Quemú Quemú
+158,Iguazú
+159,Añelo
+160,Ñorquín
+161,Picunches
+162,Bariloche
+163,Los Andes
+164,Ullúm
+165,Comuna 11
+166,Balcarce
+167,Berisso
+168,Guaminí
+169,General Guido
+170,Hurlingham
+171,Lanús
+172,Lobería
+173,Patagones
+174,Totoral
+175,Capital Corrientes
+176,Lavalle Corrientes
+177,San Martín
+178,Bermejo Chaco
+179,Gualeguaychú
+180,Pirané
+181,Ledesma
+182,Susques
+183,Chalileo
+184,Rivadavia Mendoza
+185,San Martín
+186,Loncopué
+187,Avellaneda Río Negro
+188,Ñorquinco
+189,Rivadavia San Juan
+190,San Martín
+191,General Pedernera
+192,La Capital
+193,La Capital
+194,San Martín
+195,San Martín
+196,Sarmiento Santiago del Estero
+197,Comuna 8
+198,Belgrano Santa Fe
+199,Bolívar
+200,José C. Paz
+201,Lomas de Zamora
+202,Merlo
+203,Pila
+204,Puán
+205,Roque Pérez
+206,Salto
+207,San Fernando
+208,Trenque Lauquen
+209,Fray Mamerto Esquiú
+210,Pomán
+211,Marcos Juárez
+212,Río Cuarto
+213,Curuzú Cuatiá
+214,General Donovan
+215,San Fernando
+216,Cochinoca
+217,Santa Catalina
+218,Chical Co
+219,Limay Mahuida
+220,Puelén
+221,Utracán
+222,Vinchina
+223,Sanagasta
+224,Concepción Misiones
+225,Huiliches
+226,Santa Lucía
+227,Zonda
+228,Junín San Luis
+229,Lago Buenos Aires
+230,Avellaneda Santiago del Estero
+231,Copo
+232,Loreto
+233,Comuna 15
+234,Coronel de Marina Leonardo Rosales
+235,Chascomús
+236,Morón
+237,Villa Gesell
+238,Río Primero
+239,Sauce
+240,2 de Abril
+241,Sargento Cabral
+242,General Lamadrid
+243,Catan Lil
+244,Minas Neuquén
+245,Rawson San Juan
+246,Chacabuco San Luis
+247,Lago Argentino
+248,Vera
+249,Bahía Blanca
+250,Carlos Tejedor
+251,Chacabuco Buenos Aires
+252,Hipólito Yrigoyen
+253,La Matanza
+254,Pellegrini Buenos Aires
+255,Andalgalá
+256,Capital Catamarca
+257,Unión
+258,Berón de Astrada
+259,Santo Tomé
+260,12 de Octubre
+261,Mayor Luis J. Fontana
+262,1º de Mayo
+263,Telsen
+264,Diamante
+265,Laishi
+266,Tilcara
+267,Trenel
+268,Famatina
+269,Capital Mendoza
+270,Metán
+271,Orán
+272,Río Chico
+273,Garay
+274,Silípica
+275,Burruyacú
+276,Río Chico
+277,Trancas
+278,Rojas
+279,Almirante Brown
+280,Florencio Varela
+281,Saladillo
+282,Tornquist
+283,Antofagasta de la Sierra
+284,Minas Córdoba
+285,Itatí
+286,Almirante Brown
+287,Federación
+288,Chapaleufú
+289,Luján de Cuyo
+290,Rosario de Lerma
+291,San Jerónimo
+292,Jiménez
+293,Río Hondo
+294,Famaillá
+295,Leales
+296,Río Grande
+297,Comuna 4
+298,Lezama
+299,Daireaux
+300,General Viamonte
+301,Olavarría
+302,San Andrés de Giles
+303,Tapalqué
+304,Ancasti
+305,Río Seco
+306,Empedrado
+307,Goya
+308,O'Higgins
+309,Tapenagá
+310,Mártires
+311,Bermejo Formosa
+312,Matacos
+313,Ramón Lista
+314,Rancul
+315,Los Lagos
+316,Picún Leufú
+317,La Caldera
+318,Sarmiento San Juan
+319,Ayacucho San Luis
+320,Constitución
+321,Aguirre
+322,Banda
+323,Capital Santiago del Estero
+324,Mitre
+325,Ojo de Agua
+326,Rivadavia Santiago del Estero
+327,Comuna 13
+328,Comuna 14
+329,Ayacucho Buenos Aires
+330,Dolores
+331,Escobar
+332,General Pueyrredón
+333,Laprida
+334,Ramallo
+335,Salliqueló
+336,San Miguel
+337,Capayán
+338,Pocho
+339,San Miguel
+340,San Roque
+341,Sarmiento Chubut
+342,Formosa
+343,Yavi
+344,Conhelo
+345,Curacó
+346,Candelaria
+347,Collón Curá
+348,Valcheta
+349,Capital San Juan
+350,Belgrano San Luis
+351,Güer Aike
+352,Guasayán Catamarca
+353,Salavina
+354,Ushuaia
+355,Comuna 9
+356,Capitán Sarmiento
+357,Carlos Casares
+358,Florentino Ameghino
+359,General Juan Madariaga
+360,General La Madrid
+361,Marcos Paz
+362,Tordillo
+363,El Alto
+364,Tercero Arriba
+365,Tulumba
+366,Esquina
+367,San Luis del Palmar
+368,Independencia Chaco
+369,Quitilipi
+370,Florentino Ameghino
+371,Languiñeo
+372,Tala
+373,Patiño
+374,Lihuel Calel
+375,Loventué
+376,Cainguás
+377,Pehuenches
+378,Capital Salta
+379,Jáchal
+380,Atamisqui
+381,Comuna 3
+382,Comuna 5
+383,Comuna 6
+384,Avellaneda Buenos Aires
+385,Bragado
+386,Castelli
+387,General Rodríguez
+388,San Cayetano
+389,Vicente López
+390,Santa María
+391,Colón Córdoba
+392,Presidente Roque Sáenz Peña
+393,Santa María
+394,Libertad
+395,Nogoyá
+396,Santa Bárbara
+397,Tumbaya
+398,Capital La Pampa
+399,Guatraché
+400,Realicó
+401,General Juan Facundo Quiroga
+402,Junín Mendoza
+403,Capital Misiones
+404,General Manuel Belgrano
+405,Iglesia
+406,Corpen Aike
+407,Belgrano Santiago del Estero
+408,Choya
+409,Islas del Atlántico Sur

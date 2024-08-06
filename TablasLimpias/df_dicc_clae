@@ -1,0 +1,87 @@
+,clae2,clae2_desc
+0,1,"Agricultura, ganadería, caza y servicios relacionados"
+82,2,Silvicultura y explotación forestal
+89,3,Pesca y acuicultura
+95,5,Extracción de carbón y lignito
+97,6,Extracción de petróleo crudo y gas natural
+99,7,Extracción de minerales metálicos
+103,8,Extracción de otros minerales
+112,9,Actividades de apoyo al petróleo y la minería
+114,10,Elaboración de productos alimenticios
+162,11,Elaboración de bebidas
+172,12,Elaboración de productos de tabaco
+175,13,Elaboración de productos textiles
+193,14,Elaboración de prendas de vestir
+205,15,Elaboración de productos de cuero y calzado
+211,16,Elaboración de productos de madera
+221,17,Elaboración de productos de papel
+227,18,Imprentas y editoriales
+231,19,Fabricación de productos de refinación de petróleo
+233,20,Fabricación de sustancias químicas
+254,21,Elaboracion de productos farmacéuticos
+258,22,Fabricación de productos de caucho y plástico
+264,23,Fabricación de productos de vidrio y otros minerales no metálicos
+283,24,Fabricación de metales comunes
+289,25,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo"
+304,26,"Fabricación de productos de informática, de electrónica y de óptica"
+316,27,Fabricación de equipo eléctrico
+328,28,Fabricación de maquinarias
+346,29,"Fabricación de vehículos automotores, remolques y semirremolques"
+350,30,Fabricación de otros equipos de transporte
+357,31,Fabricación de muebles
+360,32,Otras industrias manufactureras
+371,33,Reparación e instalación de maquinaria y equipo
+379,35,"Suministro de electricidad, gas, vapor y aire acondicionado"
+389,36,"Captación, tratamiento y distribución de agua"
+391,37,Evacuación de aguas residuales
+392,38,"Recogida, tratamiento y eliminación de desechos; recuperación de materiales"
+396,39,Descontaminación y otros servicios
+397,41,Construcción de edificios y partes
+399,42,Obras de ingeniería civil
+404,43,Actividades especializadas de construcción 
+421,45,Comercio al por mayor y al por menor y reparación de vehículos automotores y motos
+443,46,Comercio al por mayor excepto autos y motos
+566,47,Comercio al por menor excepto autos y motos
+642,49,Transporte terrestre y por tuberías
+665,50,Transporte acuático
+669,51,Transporte aéreo
+671,52,Almacenamiento y actividades de apoyo al transporte
+698,53,Servicio de correo y mensajería
+700,55,Servicios de alojamiento
+706,56,Servicios de expendio de alimentos y bebidas
+717,58,Edición
+721,59,Servicios audiovisuales
+726,60,Programación y transmisiones de TV y radio
+732,61,Telecomunicaciones
+739,62,"Servicios de programación, consultoría informática y actividades conexas"
+743,63,Actividades de procesamiento de información
+749,64,Servicios financieros (excepto seguros y pensiones)
+766,65,"Servicios de seguros, reaseguros y pensiones"
+775,66,Servicios auxiliares de la actividad financiera y de seguros
+788,68,Servicios inmobiliarios
+795,69,Servicios jurídicos y de contabilidad
+798,70,Servicios y asesoramiento de dirección y gestión empresarial
+802,71,Servicios de arquitectura e ingeniería
+807,72,Investigación y desarrollo científico
+813,73,Servicios de publicidad e investigación de mercado
+816,74,"Otras actividades profesionales, científicas y técnicas"
+822,75,Servicios veterinarios
+823,77,Alquiler y arrendamiento
+837,78,Servicios de obtención y dotación de personal
+838,79,"Agencias de viajes, servicios de reservas y actividades conexas"
+842,80,Actividades de investigación y seguridad
+845,81,Servicios a edificios y actividades de jardinería
+850,82,Actividades administrativas y de apoyo a oficinas y empresas
+857,84,"Administración pública, defensa y seguridad social"
+867,85,Enseñanza
+882,86,Servicios de salud humana
+896,87,Actividades de atención en instituciones
+902,88,Actividades de atención sin alojamiento
+903,90,Servicios artísticos y de espectáculos
+908,91,"Servicios de bibliotecas, archivos y museos y  servicios culturales n.c.p."
+912,92,Juegos de azar y apuestas
+914,93,"Actividades deportivas, recreativas y de entretenimiento"
+925,94,Servicios de asociaciones
+934,95,Reparación de computadoras y equipos de uso doméstico
+942,96,Otros servicios personales
+949,999,Otros sectores
